@@ -1,3 +1,8 @@
+# Electronic Component Finder & Mini Oscilloscope
+
+## Project Overview
+An interactive Python-based desktop application that bridges the gap between electronics theory and practical visualization. It combines an Electronic Component Finder with a Mini Oscilloscope, allowing users to explore essential electronic components, generate different signal waveforms, and analyze their characteristics through a user-friendly graphical interface.
+
 ## Features
 
 ### 1. Electronic Component Finder
